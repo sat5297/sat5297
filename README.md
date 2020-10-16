@@ -1,8 +1,9 @@
 ### Hi there 👋
-###This is Shakti here..
+### This is Shakti here..
 
 <!--
 **sat5297/sat5297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning Data Structures and Algorithms.
@@ -40,4 +41,3 @@
 <img align="left" alt="Shakti's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sat5297&theme=tokyonight&show_icons=true" />
 
 **<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sat5297&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />**
--->
