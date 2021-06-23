@@ -46,7 +46,7 @@
 
 **<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sat5297&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />**
 
-## :zap: Coding Stats:
+<!-- ## :zap: Coding Stats: -->
  <h2> Find me around the web 🌎: </h2><br>
 
 - Linkedin-<a href="https://www.linkedin.com/in/shakti-r-037b1a163" target="_blank">@LinkedIn</a><br>
