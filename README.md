@@ -1,16 +1,23 @@
-### Hi there 👋
-### I am Shakti
+<h1>Hi, I'm Shakti Ratan. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></h1>
 
 <!--
 **sat5297/sat5297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on Web Development.
+- 🔭 I’m currently learning about Web Development.
 - 🌱 I have sound knowledge in Data Structures and Algorithms.
-- 👯 I’m looking to collaborate on open source projects.
+<!-- - 👯 I’m looking to collaborate on open source projects. -->
 - 🤔 I’m looking for help with Reactjs and Nodejs.
-- 💬 Ask me about  Data Structures and Algorithms, Javascript, Nodejs.
+- 💬 Ask me about  Data Structures and Algorithms, ReactJs.
 - 📫 How to reach me: shaktiratan.5297@gmail.com
+
+▪️ My skills include :<br>
+🔹️Programming Language: C++, JavaScript <br>
+🔹️Problem Solving Skills: Data Structures & Algorithms , OOPs<br>  
+🔹️Web Development: HTML5 , CSS3, Javascript <br>
+🔹️Framework & Tools : ReactJs, NodeJs, Git , VS Code<br>
+🔹️Database : MySQL<br>
+🔹️Operating System: Linux.<br>
 
 
 ## :man_student: Student at PES Institute of Technology!
@@ -44,3 +51,12 @@
 <!-- ## :zap: Coding Stats: -->
 <!-- <img align="left" alt="Shakti's Geeks for Geeks Stats" src = "https://auth.geeksforgeeks.org/user/shaktiratan/practice/" />
  -->
+ 
+ <h2> Find me around the web 🌎: </h2><br>
+
+- Linkedin-<a href="https://www.linkedin.com/in/shakti-r-037b1a163" target="_blank">@LinkedIn</a><br>
+- Check my Tech profile on HackerRank-<a href="https://www.hackerrank.com/shaktiratan_5297" target="_blank">@HackerRank</a><br>
+- Check out my Tech profile on GeeksforGeeks-<a href="https://auth.geeksforgeeks.org/user/shaktiratan/practice/" target="_blank">@GeeksforGeeks</a><br>
+- Check out my Tech profile on LeetCode<a href="https://leetcode.com/user4789b/" target="_blank">@LeetCode</a><br>
+
+
