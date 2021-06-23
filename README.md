@@ -6,10 +6,10 @@
 -->
 
 - 🔭 I’m currently working on Web Development.
-- 🌱 I’m currently learning Data Structures and Algorithms.
+- 🌱 I have sound knowledge in Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with Reactjs and Nodejs.
-- 💬 Ask me about Javascript, Nodejs, Data Structures and Algorithms.
+- 💬 Ask me about  Data Structures and Algorithms, Javascript, Nodejs.
 - 📫 How to reach me: shaktiratan.5297@gmail.com
 
 
