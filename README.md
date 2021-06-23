@@ -46,6 +46,9 @@
 
 **<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sat5297&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />**
 
+<br />
+<br/>
+
 ## :zap: Coding Stats:
 <!--  <h2> Find me around the web 🌎: </h2><br>
  -->
