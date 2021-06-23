@@ -49,8 +49,8 @@
 <!-- ## :zap: Coding Stats: -->
  <h2> Find me around the web 🌎: </h2><br>
 
-- Linkedin-<a href="https://www.linkedin.com/in/shakti-r-037b1a163" target="_blank">@LinkedIn</a><br>
-- Check my Tech profile on HackerRank-<a href="https://www.hackerrank.com/shaktiratan_5297" target="_blank">@HackerRank</a><br>
+- Check out my Linkedin-<a href="https://www.linkedin.com/in/shakti-r-037b1a163" target="_blank">@LinkedIn</a><br>
+- Check out my Tech profile on HackerRank-<a href="https://www.hackerrank.com/shaktiratan_5297" target="_blank">@HackerRank</a><br>
 - Check out my Tech profile on GeeksforGeeks-<a href="https://auth.geeksforgeeks.org/user/shaktiratan/practice/" target="_blank">@GeeksforGeeks</a><br>
 - Check out my Tech profile on LeetCode<a href="https://leetcode.com/user4789b/" target="_blank">@LeetCode</a><br>
 
