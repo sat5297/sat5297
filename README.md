@@ -41,5 +41,6 @@
 
 **<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sat5297&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />**
 
-## :zap: Coding Stats:
-<img align="left" alt="Shakti's Geeks for Geeks Stats" src = "https://auth.geeksforgeeks.org/user/shaktiratan/practice/" />
+<!-- ## :zap: Coding Stats: -->
+<!-- <img align="left" alt="Shakti's Geeks for Geeks Stats" src = "https://auth.geeksforgeeks.org/user/shaktiratan/practice/" />
+ -->
