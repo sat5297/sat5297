@@ -6,19 +6,17 @@
 
 - 🔭 I’m currently learning about Web Development.
 - 🌱 I have sound knowledge in Data Structures and Algorithms.
-<!-- - 👯 I’m looking to collaborate on open source projects. -->
 - 🤔 I’m looking for help with Reactjs and Nodejs.
 - 💬 Ask me about  Data Structures and Algorithms, ReactJs.
 - 📫 How to reach me: shaktiratan.5297@gmail.com
-
+<!-- - 👯 I’m looking to collaborate on open source projects. -->
 ▪️ My skills include :<br>
 🔹️Programming Language: C++, JavaScript <br>
 🔹️Problem Solving Skills: Data Structures & Algorithms , OOPs<br>  
-🔹️Web Development: HTML5 , CSS3, Javascript <br>
+🔹️Web Development: HTML, CSS3, Javascript <br>
 🔹️Framework & Tools : ReactJs, NodeJs, Git , VS Code<br>
 🔹️Database : MySQL<br>
 🔹️Operating System: Linux.<br>
-
 
 ## :man_student: Student at PES Institute of Technology!
 
@@ -48,10 +46,7 @@
 
 **<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sat5297&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />**
 
-<!-- ## :zap: Coding Stats: -->
-<!-- <img align="left" alt="Shakti's Geeks for Geeks Stats" src = "https://auth.geeksforgeeks.org/user/shaktiratan/practice/" />
- -->
- 
+## :zap: Coding Stats:
  <h2> Find me around the web 🌎: </h2><br>
 
 - Linkedin-<a href="https://www.linkedin.com/in/shakti-r-037b1a163" target="_blank">@LinkedIn</a><br>
