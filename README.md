@@ -6,14 +6,12 @@
 
 - 🔭 I’m currently learning about Web Development.
 - 🌱 I have sound knowledge in Data Structures and Algorithms.
-- 🤔 I’m looking for help with Reactjs and Nodejs.
 - 💬 Ask me about  Data Structures and Algorithms, ReactJs.
 - 📫 How to reach me: shaktiratan.5297@gmail.com
-<!-- - 👯 I’m looking to collaborate on open source projects. -->
 ▪️ My skills include :<br>
 🔹️Programming Language: C++, JavaScript <br>
 🔹️Problem Solving Skills: Data Structures & Algorithms , OOPs<br>  
-🔹️Web Development: HTML, CSS3, Javascript <br>
+🔹️Web Development: HTML, CSS, Javascript <br>
 🔹️Framework & Tools : ReactJs, NodeJs, Git , VS Code<br>
 🔹️Database : MySQL<br>
 🔹️Operating System: Linux.<br>
@@ -35,8 +33,6 @@
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-
 <br />
 <br />
 <br/>
@@ -45,7 +41,6 @@
 <img align="left" alt="Shakti's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sat5297&theme=tokyonight&show_icons=true" />
 
 **<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sat5297&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />**
-
 <br />
 <br/>
 
