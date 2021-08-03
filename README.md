@@ -7,8 +7,8 @@
 - 🔭 I’m currently learning about Web Development.
 - 🌱 I have sound knowledge in Data Structures and Algorithms.
 - 💬 Ask me about  Data Structures and Algorithms, ReactJs.
-- 📫 How to reach me: shaktiratan.5297@gmail.com
-▪️ My skills include :<br>
+- 📫 How to reach me: shaktiratan.5297@gmail.com.
+- My skills include :<br>
 🔹️Programming Language: C++, JavaScript <br>
 🔹️Problem Solving Skills: Data Structures & Algorithms , OOPs<br>  
 🔹️Web Development: HTML, CSS, Javascript <br>
