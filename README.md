@@ -10,11 +10,11 @@
 - 📫 How to reach me: shaktiratan.5297@gmail.com.
 - My skills include :<br>
 🔹️Programming Language: C++, JavaScript <br>
-🔹️Problem Solving Skills: Data Structures & Algorithms , OOPs<br>  
+🔹️Problem Solving Skills: Data Structures & Algorithms , OOPs <br>  
 🔹️Web Development: HTML, CSS, Javascript <br>
-🔹️Framework & Tools : ReactJs, NodeJs, Git , VS Code<br>
-🔹️Database : MySQL<br>
-🔹️Operating System: Linux.<br>
+🔹️Framework & Tools : ReactJs, NodeJs, Git , VS Code <br>
+🔹️Database : MySQL <br>
+🔹️Operating System: Linux. <br>
 
 ## :man_student: Student at PES Institute of Technology!
 
