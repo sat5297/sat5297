@@ -7,7 +7,7 @@
 - 🔭 I’m currently learning about Web Development.
 - 🌱 I have sound knowledge in Data Structures and Algorithms.
 - 💬 Ask me about  Data Structures and Algorithms, ReactJs.
-- 📫 How to reach me: shaktiratan.5297@gmail.com
+- 📫 How to reach me: shaktiratan.5297@gmail.com <br>
 ▪️ My skills include :<br>
 🔹️Programming Language: C++, JavaScript <br>
 🔹️Problem Solving Skills: Data Structures & Algorithms , OOPs<br>  
@@ -18,8 +18,8 @@
 
 ## :man_student: Student at PES Institute of Technology!
 
-- Class of 2021
 - Information Science Engineer
+- Class of 2021
 
 ## :hammer_and_wrench: Languages and Tools:
 
