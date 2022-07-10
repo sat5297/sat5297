@@ -6,19 +6,15 @@
   <h1>Hi, I'm Shakti Ratan. 
       <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">
   </h1>
-  <h5>  
-        <p>I have been working on React, Node JS, MongoDB, C++, and Javascript and developed projects using the same.</p>
-        <p>I have sound knowledge of Data structures, Algorithms, and my Core Subjects. </p>
-        <p>I like working on complex problems and building scalable solutions. </p>
-  </h5>
 </div>
 
-- 🔭 I’m currently learning about Web Development.
-- 🌱 I have sound knowledge in Data Structures and Algorithms.
+- 🔭 I’m currently learning about Backend Development.
+- 🌱 I have sound knowledge in Data Structures and Algorithms, NodeJs, ReactJS, MongoDB, C++, Javascript.
 - 💬 Ask me about  Data Structures and Algorithms, ReactJs.
+- I like working on complex problems and building scalable solutions.
 - 📫 How to reach me: shaktiratan.5297@gmail.com.
 - My skills include :<br>
-🔹️Programming Language: C++, JavaScript <br>
+🔹️Programming Language: C++, JavaScript, JAVA, Python <br>
 🔹️Problem Solving Skills: Data Structures & Algorithms , OOPs <br>  
 🔹️Web Development: HTML, CSS, Javascript <br>
 🔹️Framework & Tools : ReactJs, NodeJs, Git , VS Code <br>
@@ -37,7 +33,7 @@
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Express" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7S33Oq2FeRbyBBA6l1q8PwLVa3SzaONO-9Q&usqp=CAU" />
-<img align="left" alt="MongoDB" width="40px" src="https://pbs.twimg.com/profile_images/1234528105819189248/b6F1hk_6.jpg" />
+<img align="left" alt="MongoDB" width="40px" src="https://github.com/mongodb/mongo/blob/master/docs/leaf.svg" />
 <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /><img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
