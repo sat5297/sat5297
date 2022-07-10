@@ -9,8 +9,7 @@
 </div>
 
 - 🔭 I’m currently learning about Backend Development.
-- 🌱 I have sound knowledge in Data Structures and Algorithms, NodeJs, ReactJS, MongoDB, C++, Javascript.
-- 💬 Ask me about  Data Structures and Algorithms, ReactJs.
+- 🌱 I have sound knowledge in Data Structures and Algorithms, NodeJs, ReactJS, MongoDB, C++, OOP Concepts and Javascript.
 - I like working on complex problems and building scalable solutions.
 - 📫 How to reach me: shaktiratan.5297@gmail.com.
 - My skills include :<br>
