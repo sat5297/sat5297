@@ -18,7 +18,7 @@
 🔹️Problem Solving Skills: Data Structures & Algorithms , OOPs <br>  
 🔹️Web Development: HTML, CSS, Javascript <br>
 🔹️Framework & Tools : ReactJs, NodeJs, Git , VS Code <br>
-🔹️Database : MySQL <br>
+🔹️Database : MySQL, MongoDB <br>
 🔹️Operating System: Linux. <br>
 
 ## :man_student: Student at PES Institute of Technology!
