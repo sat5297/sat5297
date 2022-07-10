@@ -15,7 +15,7 @@
 - 📫 How to reach me: shaktiratan.5297@gmail.com.
 - My skills include :<br>
 🔹️Programming Language: C++, JavaScript, JAVA, Python <br>
-🔹️Problem Solving Skills: Data Structures & Algorithms , OOPs <br>  
+🔹️Problem Solving Skills: Data Structures & Algorithms ,OOP concepts <br>  
 🔹️Web Development: HTML, CSS, Javascript <br>
 🔹️Framework & Tools : ReactJs, NodeJs, Git , VS Code <br>
 🔹️Database : MySQL, MongoDB <br>
