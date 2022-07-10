@@ -1,3 +1,7 @@
+<!--
+**sat5297/sat5297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
 <div>
   <h1>Hi, I'm Shakti Ratan. 
    <div style="width:30px, height:30px">
@@ -5,10 +9,6 @@
    </div>
   </h1>
 </div>
-
-<!--
-**sat5297/sat5297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 - 🔭 I’m currently learning about Web Development.
 - 🌱 I have sound knowledge in Data Structures and Algorithms.
