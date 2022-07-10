@@ -6,8 +6,12 @@
   <h1>Hi, I'm Shakti Ratan. 
       <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">
   </h1>
+  <h4>  I have been working on React, Node JS, MongoDB, C++, and Javascript and developed projects using the same.
+        I have sound knowledge of Data structures, Algorithms, and my Core Subjects. 
+        I like working on complex problems and building scalable solutions.
+  </h4>
 </div>
-
+- I have been working on React, Node JS, MongoDB, C++, and Javascript and developed projects using the same.
 - 🔭 I’m currently learning about Web Development.
 - 🌱 I have sound knowledge in Data Structures and Algorithms.
 - 💬 Ask me about  Data Structures and Algorithms, ReactJs.
