@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shakti Ratan. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></h1>
+<h1>Hi, I'm Shakti Ratan. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <!--
 **sat5297/sat5297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
