@@ -66,5 +66,5 @@
 <a href="https://github.com/sat5297?tab=followers"><img src="https://img.shields.io/github/followers/sat5297?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sat5297" width=600px 
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sat5297" width=800px 
 />
