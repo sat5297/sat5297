@@ -3,11 +3,11 @@
 -->
 
 <div>
-  <h1>Hi, I'm Shakti Ratan. 
-   <div style="width:30px, height:30px">
-     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
+  <h4>Hi, I'm Shakti Ratan. 
+   <div align="center">
+      <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">
    </div>
-  </h1>
+  </h4>
 </div>
 
 - 🔭 I’m currently learning about Web Development.
