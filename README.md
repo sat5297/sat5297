@@ -20,7 +20,7 @@
 🔹️Database : MySQL, MongoDB <br>
 🔹️Operating System: Linux, Windows, MAC <br>
 
-## :man_student: Alumni at PES Institute of Technology!
+## :man_student: Alumnus of PES Institute of Technology!
 
 - Information Science Engineer
 - Class of 2021
