@@ -18,7 +18,7 @@
 🔹️Web Development: HTML, CSS, Javascript <br>
 🔹️Framework & Tools : ReactJs, NodeJs, Git , VS Code <br>
 🔹️Database : MySQL, MongoDB <br>
-🔹️Operating System: Linux. <br>
+🔹️Operating System: Linux, Windows, MAC <br>
 
 ## :man_student: Student at PES Institute of Technology!
 
