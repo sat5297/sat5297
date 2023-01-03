@@ -58,7 +58,7 @@
 ## :zap: Coding Stats:
 - Check out my Tech profile on HackerRank-<a href="https://www.hackerrank.com/shaktiratan_5297" target="_blank">@HackerRank</a><br>
 - Check out my Tech profile on GeeksforGeeks-<a href="https://auth.geeksforgeeks.org/user/shaktiratan/practice/" target="_blank">@GeeksforGeeks</a><br>
-- Check out my Tech profile on LeetCode-<a href="https://leetcode.com/user4789b/" target="_blank">@LeetCode</a><br>
+- Check out my Tech profile on LeetCode-<a href="https://leetcode.com/ShaktiRatan/" target="_blank">@LeetCode</a><br>
 - Check out my Tech profile on CodeChef-<a href="https://www.codechef.com/users/shakti5297" target="_blank">@CodeChef</a><br>
 
 
