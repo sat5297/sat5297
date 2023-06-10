@@ -8,10 +8,10 @@
   </h1>
 </div>
 
-- 🔭 I’m currently learning about Backend Development.
-- 🌱 I have sound knowledge in Data Structures and Algorithms, NodeJs, ReactJS, MongoDB, C++, OOP Concepts and Javascript.
-- I like working on complex problems and building scalable solutions.
-- 📫 How to reach me: shaktiratan.5297@gmail.com.
+- 🔭 Currently, I am learning about Backend Development.
+- 🌱 I possess strong knowledge in Data Structures and Algorithms, NodeJs, ReactJS, MongoDB, C++, Object-Oriented Programming (OOP) concepts, and Javascript.
+- I enjoy tackling complex problems and constructing scalable solutions.
+- 📫 You can reach me at: shaktiratan.5297@gmail.com.
 - My skills include :<br>
 🔹️Programming Language: C++, JavaScript, JAVA, Python <br>
 🔹️Problem Solving Skills: Data Structures & Algorithms ,OOP concepts <br>
@@ -22,9 +22,8 @@
 
 ## :man_student: Alumnus of PES Institute of Technology!
 
-- Information Science Engineer
-- Class of 2021
-
+- I graduated as an Information Science Engineer in the Class of 2021.
+- 
 ## :hammer_and_wrench: Languages and Tools:
 
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -51,15 +50,15 @@
 <br/>
 
 ## :zap: Find me around the web 🌎 :
-- Check out my Linkedin profile-<a href="https://www.linkedin.com/in/shakti-r-037b1a163" target="_blank">@LinkedIn</a><br>
-- Check out my Quora profile-<a href="https://www.quora.com/profile/Shakti-Ratan-1" target="_blank">@Quora</a><br>
+- Feel free to check out my Linkedin profile-<a href="https://www.linkedin.com/in/shakti-r-037b1a163" target="_blank">@LinkedIn</a><br>
+- Feel free to check out my Quora profile-<a href="https://www.quora.com/profile/Shakti-Ratan-1" target="_blank">@Quora</a><br>
 
 
 ## :zap: Coding Stats:
-- Check out my Tech profile on HackerRank-<a href="https://www.hackerrank.com/shaktiratan_5297" target="_blank">@HackerRank</a><br>
-- Check out my Tech profile on GeeksforGeeks-<a href="https://auth.geeksforgeeks.org/user/shaktiratan/practice/" target="_blank">@GeeksforGeeks</a><br>
-- Check out my Tech profile on LeetCode-<a href="https://leetcode.com/ShaktiRatan/" target="_blank">@LeetCode</a><br>
-- Check out my Tech profile on CodeChef-<a href="https://www.codechef.com/users/shakti5297" target="_blank">@CodeChef</a><br>
+- You can find my Tech profile on HackerRank-<a href="https://www.hackerrank.com/shaktiratan_5297" target="_blank">@HackerRank</a><br>
+- You can find my Tech profile on GeeksforGeeks-<a href="https://auth.geeksforgeeks.org/user/shaktiratan/practice/" target="_blank">@GeeksforGeeks</a><br>
+- You can find my Tech profile on LeetCode-<a href="https://leetcode.com/ShaktiRatan/" target="_blank">@LeetCode</a><br>
+- You can find my Tech profile on CodeChef-<a href="https://www.codechef.com/users/shakti5297" target="_blank">@CodeChef</a><br>
 
 
 <a href="https://github.com/sat5297/github-profile-views-counter">
